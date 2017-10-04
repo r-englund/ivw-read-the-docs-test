@@ -11,6 +11,15 @@ Welcome to Inviwo's documentation!
    :caption: Contents:
 
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Building Inviwo from Source
+
+    building/source
+    building/windows
+    building/osx
+    building/linux
+
 
 Indices and tables
 ==================
